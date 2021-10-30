@@ -38,7 +38,7 @@ Now using the tickerIndex, we parse the worksheets only once instead of iteratin
 Output the results on a new worksheet named "Analysis of all stocks". We see that the execution times for the refactored code is faster than the one for the initial code. 
 
 ![Refactored vs Initial ](https://user-images.githubusercontent.com/75961057/139558134-0dd8925f-bc3e-459d-810e-03365f0d129d.png)
-## Summaary
+## Summary
 Steve can now clearly see that the stock "DAQO New Energy Corporation", Ticker Symbol: 'DQ" that his parents want to invest in has significantly not performed in 2018 and is showing negative returns. So, the stock has to be scrutinized and researched more to find the reasons why. He also sees two other stocks whose rate of returns are showing positive results that he can find out about more to recommend to his parents. We have refactored initial code so that Steve can now add more stocks to analyze or the entire stock market. 
 
 ## Advantages and Disadvantages of Refactoring code
